@@ -1,0 +1,27 @@
+OBRIGATÓRIO CRIAR UMA CONTA NO GITHUB:
+https://github.com/
+
+Repositório do curso:
+https://github.com/spelcaster/aula-poo-una-022020
+
+Git + Github
+https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+
+PHP POO
+https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x
+
+PHP para iniciantes
+https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k
+
+Laravel
+https://www.youtube.com/watch?v=fCR6ogiPopU
+
+>>> Bônus:
+C (Desenvolvimento de jogos e algoritmo)
+https://learnopengl.com/
+
+Padrão de Desenvolvimento de Projetos
+https://gameprogrammingpatterns.com/
+
+Desafios de Programação
+https://www.urionlinejudge.com.br/
