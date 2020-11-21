@@ -19,20 +19,12 @@ class ContaGold
 
     public function deposito(float $valor)
     {
-        $this->movimentacao[] = $valor;
-        $this->movimentacao[] = 0.1;
+        $this->depositoBase($valor);
+        $this->depositoBase(0.1);
     }
 
     public function saque(float $valor)
     {
-        $saldo = $this->saldo();
-        $novoSaldo = $saldo - $valor;
-
-        if (($novoSaldo < 0) && (abs($novoSaldo) > $this->limite)) {
-            print("Saldo insuficiente de saque no valor R$ " . $valor. "<br>");
-            return;
-        }
-
-        $this->movimentacao[] = -$valor;
+        return $this->saqueBase($valor);
     }
 }
